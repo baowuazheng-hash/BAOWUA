@@ -7,7 +7,7 @@ const fileAndStyles: Record<string, string> = {};
 // vitepress配置
 const vitepressConfig: UserConfig = {
   // base
-  base: '/crazy-water-world/',
+  base: '/BAOWUA/',
   // 语言
   lang: 'zh-CN',
   // meta标签
@@ -15,7 +15,7 @@ const vitepressConfig: UserConfig = {
   // meta标签描述
   description: '一站式攻略合集',
   // 自定义图标
-  head: [['link', { rel: 'icon', href: '/crazy-water-world/favicon.png' }]],
+  head: [['link', { rel: 'icon', href: '/BAOWUA/favicon.png' }]],
   // 当设置为 true 时，VitePress 将从 URL 中删除 .html 后缀。
   cleanUrls: true,
   // 自定义主题配置
